@@ -1,0 +1,257 @@
+INFO - 2024-06-24 00:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:10:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:11:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 00:11:00 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Controllers\Pegawai.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->pdf()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 00:13:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 00:13:33 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Controllers\Pegawai.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->pdf()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 00:15:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 00:15:14 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Controllers\Pegawai.php on line 62.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->pdf()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 00:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:23:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:23:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:26:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:28:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:35:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:35:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:36:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:36:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:43:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:43:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:43:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:43:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:46:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 00:46:47 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Controllers\Pegawai.php on line 63.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->pdf()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 00:46:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:46:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 00:47:04 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Controllers\Pegawai.php on line 63.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->pdf()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 00:51:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 00:51:28 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Controllers\Pegawai.php on line 63.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->pdf()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 00:51:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 00:51:31 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Controllers\Pegawai.php on line 63.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->pdf()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 00:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 00:54:35 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Controllers\Pegawai.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->pdf()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 00:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 00:54:38 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Controllers\Pegawai.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->pdf()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 00:55:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:56:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 00:56:00 --> ErrorException: Attempt to read property "nama" on array
+in APPPATH\Views\pegawai\index.php on line 51.
+ 1 APPPATH\Views\pegawai\index.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama" on array', 'C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\app\\Views\\pegawai\\index.php', 51)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(35): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 00:56:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 00:56:26 --> ErrorException: Attempt to read property "nama" on array
+in APPPATH\Views\pegawai\index.php on line 51.
+ 1 APPPATH\Views\pegawai\index.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama" on array', 'C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\app\\Views\\pegawai\\index.php', 51)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(35): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 00:56:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 00:56:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 00:56:53 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Controllers\Pegawai.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->pdf()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 01:18:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:19:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 01:19:06 --> Error: Class "app\Models\PdfModel" not found
+in APPPATH\Controllers\Pegawai.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->pdf()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 01:22:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 01:22:04 --> Error: Class "app\Models\PdfModel" not found
+in APPPATH\Controllers\Pegawai.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->pdf()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 01:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 01:29:55 --> ErrorException: Attempt to read property "nama" on array
+in APPPATH\Views\pegawai\index.php on line 51.
+ 1 APPPATH\Views\pegawai\index.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama" on array', 'C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\app\\Views\\pegawai\\index.php', 51)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(36): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 01:30:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 01:30:44 --> Error: Class "app\Models\PdfModel" not found
+in APPPATH\Controllers\Pegawai.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->pdf()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 01:31:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 01:31:42 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Controllers\Pegawai.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->pdf()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 01:32:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 01:33:59 --> ErrorException: Attempt to read property "nama" on array
+in APPPATH\Views\pegawai\index.php on line 51.
+ 1 APPPATH\Views\pegawai\index.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama" on array', 'C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\app\\Views\\pegawai\\index.php', 51)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(35): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 01:36:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 01:36:49 --> ErrorException: Attempt to read property "id_pegawai" on array
+in APPPATH\Views\pegawai\index.php on line 57.
+ 1 APPPATH\Views\pegawai\index.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id_pegawai" on array', 'C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\app\\Views\\pegawai\\index.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(35): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 01:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 01:39:22 --> ErrorException: Attempt to read property "nama" on array
+in APPPATH\Views\pegawai\index.php on line 51.
+ 1 APPPATH\Views\pegawai\index.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama" on array', 'C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\app\\Views\\pegawai\\index.php', 51)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(35): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 01:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 01:39:26 --> ErrorException: Attempt to read property "nama" on array
+in APPPATH\Views\pegawai\index.php on line 51.
+ 1 APPPATH\Views\pegawai\index.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama" on array', 'C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\app\\Views\\pegawai\\index.php', 51)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\app\\Views\\pegawai\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pegawai/index', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(35): view('pegawai/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 01:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:42:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:43:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-24 01:43:07 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Controllers\Pegawai.php on line 70.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pegawai->pdf()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\tugas\\Semester 6\\BABAYO\\UAS_Web\\public\\index.php')
+INFO - 2024-06-24 01:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:47:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:47:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:49:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:49:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:49:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:49:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:50:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:50:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:50:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-24 01:50:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
